@@ -1,0 +1,37 @@
+10 REM WHERE IS THE LOVE? - BLACK EYED PEAS
+20 REM PROGRAMADO POR THIAGO CANTERO MARI MONTEIRO - 08/01/2018
+30 CLS
+40 LOCATE 9, 12: PRINT "DEDICO PARA A GAROTA MAIS LINDA DA LESTE E DE TODO O MUNDO! <3 ;)"
+50 LOCATE 10, 12: PRINT "WHERE IS THE LOVE? - BLACK EYED PEAS"
+60 LOCATE 11, 12: PRINT "PROGRAMADO POR: THIAGO CANTERO MARI MONTEIRO em QuickBasic \o/"
+70 PLAY "<<t220F2t180ct200AF2t130Et80ct120Et120FDt80E2Ft90<A#2t80A#t220>A#t200<A#t220>A#t220"
+80 PLAY "<t50F2t180ct200AF2t90Et80ct120Et120FDt80E2Ft90<A#2t80A#t220>A#t200<A#t220>A#t220"
+90 CLS
+100 LOCATE 9, 10: PRINT "NAO SEJA CINICO SOBRE O AMOR, PORQUE, APESAR DE TODA ARIDEZ E DESENCATAMENTO,"
+110 LOCATE 11, 10: PRINT " ELE E TAO PERENE QUANTO A RELVA. - POEMA DESIDERATA"
+120 PLAY ">t180EEEDCDEEEEDCDE<At150A>t150CED<FAA>CEECD<FFA>CEt120DDCECt180GGGEEDCDEGGGEDt80CEC"
+130 CLS
+140 PRINT "                 /\         /\                   "
+150 PRINT "                 \  \_____/  /               __  "
+160 PRINT "                 /  ,    ,   \           ___|  | "
+170 PRINT "                | @         @ |      ___|______| "
+180 PRINT "                \     .      /   __|___|        "
+190 PRINT "                 |           \__|__|            "
+200 PRINT "                 |  U   U    |                  "
+210 PRINT "                  \_nn___nn_/                   "
+220 PRINT ""
+230 PRINT ""
+240 PRINT ""
+250 PRINT "   $$$$$$$$$_____$$$$$$$$$__♥Ɨ ΜƗŞŞ ¥ØỮ"
+260 PRINT "_$$$$$$$$$$$$$_$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+270 PRINT "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$__♥Ɨ ΜƗŞŞ ¥ØỮ"
+280 PRINT "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+290 PRINT "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+300 PRINT "_$$$$$$$$$$$$$$$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+310 PRINT "___$$$$$$$$$$$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+320 PRINT "______$$$$$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+330 PRINT "________$$$$$$$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+340 PRINT "___________$$$$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+350 PRINT "____________$$$$ __♥Ɨ ΜƗŞŞ ¥ØỮ"
+360 print"______________$ Ɨ ΜƗŞŞ ¥ØỮ"
+
